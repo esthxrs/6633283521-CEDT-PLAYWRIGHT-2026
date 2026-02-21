@@ -7,9 +7,6 @@ test.describe('Login failure', () => {
     await page.getByLabel('Username').fill('k');
 
   });
-
-  test.only
-
 });
 
 test('test', async ({ page }) => {
