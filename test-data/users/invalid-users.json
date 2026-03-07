@@ -1,6 +1,6 @@
 {
     "invalidUsername":{
-        "username": "John wick"
-        
+        "username": "John wick",
+        "password": "0123456789"
     }
 }
